@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Poojakb0447
+- 👋 Hi, I’m Pooja
 - 👀 I’m interested in any of the Computer Dev stuff
-- 🌱 I’m currently learning Machine Learning, Linux Kernel Programming, Big Data,
+- 🌱 I’m currently learning Machine Learning, Linux Kernel Programming, Big Data, Python, Data Structures and algorithms
 - 💞️ I’m looking to collaborate on any of the Open Source Project
 - 📫 How to reach me on pooja.kb04@gmail.com
 
